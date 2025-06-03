@@ -5,7 +5,7 @@
 ### School21
 
 ![Сертификат 1. Школа 21](school21/school21-base-ru.png)
-![Сертификат 1. Школа 21](school21\school21-base-en.png)
+![Сертификат 1. Школа 21](school21/school21-base-en.png)
 
 ## 1С
 
